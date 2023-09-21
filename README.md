@@ -2,9 +2,9 @@
 
 There are three notebooks in this homework; you should work through all three of them.
 
-Homework 2.1 - Optimization and Network Architecture
-Homework 2.2 - Neural Network CIFAR-10 Classification
-Homework 2.3 - Denoising Autoencoder
+- Homework 2.1 - Optimization and Network Architecture
+- Homework 2.2 - Neural Network CIFAR-10 Classification
+- Homework 2.3 - Denoising Autoencoder
 
 Tasks:
 
